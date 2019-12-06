@@ -1,5 +1,7 @@
 # CSharp
 
+[Learn C#](https://www.codecademy.com/learn/learn-c-sharp)
+
 Visual Studio
 
 Workloads
