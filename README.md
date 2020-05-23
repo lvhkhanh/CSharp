@@ -9,6 +9,8 @@
 ### https://www.tutorialspoint.com/csharp/index.htm
 ### https://www.guru99.com/c-sharp-tutorial.html
 ### https://www.tutorialsteacher.com/csharp/csharp-tutorials
+## Paths
+### https://app.pluralsight.com/search/?q=C%23&type=path
 ## Books
 ### https://www.syncfusion.com/ebooks?searchkey=C#&type=all
 ## IDE
