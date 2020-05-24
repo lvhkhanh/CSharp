@@ -18,6 +18,7 @@
 ## Books
 ### https://www.syncfusion.com/ebooks?searchkey=C#&type=all
 ## IDE
+### Microsoft Visual Studio https://visualstudio.microsoft.com/
 ### Visual Studio Code
 #### Extensions
 ##### https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp
