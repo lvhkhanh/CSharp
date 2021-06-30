@@ -11,7 +11,7 @@
 ### https://courses.edx.org/courses/course-v1:Microsoft+DEV250x+3T2018/course/
 ### https://www.youtube.com/playlist?list=PLdo4fOcmZ0oW8nviYduHq7bmKode-p8Wy ASP.NET Core 101
 ### https://codelabs.developers.google.com/
-- [ ] https://www.w3schools.com/cs/
+- [x] https://www.w3schools.com/cs/
 ### https://www.tutorialspoint.com/csharp/index.htm
 ### https://www.guru99.com/c-sharp-tutorial.html
 ### https://www.tutorialsteacher.com/csharp/csharp-tutorials
