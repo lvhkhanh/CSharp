@@ -5,7 +5,7 @@
 ## Courses
 ### https://app.pluralsight.com/library/courses/building-async-api-aspdotnet-core/table-of-contents
 ### https://app.pluralsight.com/library/courses/mocking-moq-xunit/table-of-contents
-### https://www.codecademy.com/learn/learn-c-sharp
+- [x] https://www.codecademy.com/learn/learn-c-sharp - [cert Khanh.Le Learn C# Course](https://www.codecademy.com/profiles/Khanh.Le/certificates/65f0ff88f4fc58e0536b3b51648dff24)
 ### https://www.edx.org/course/introduction-to-c-2
 ### https://www.edx.org/course/object-oriented-programming-in-c
 ### https://courses.edx.org/courses/course-v1:Microsoft+DEV250x+3T2018/course/
