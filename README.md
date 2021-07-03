@@ -3,6 +3,7 @@
 ### https://docs.microsoft.com/en-us/dotnet/csharp/
 ### https://code.visualstudio.com/docs/languages/csharp
 ## Courses
+- [ ] https://www.tutorialsteacher.com/csharp/csharp-tutorials
 ### https://app.pluralsight.com/library/courses/building-async-api-aspdotnet-core/table-of-contents
 ### https://app.pluralsight.com/library/courses/mocking-moq-xunit/table-of-contents
 - [x] https://www.codecademy.com/learn/learn-c-sharp - [cert Khanh.Le Learn C# Course](https://www.codecademy.com/profiles/Khanh.Le/certificates/65f0ff88f4fc58e0536b3b51648dff24)
@@ -14,7 +15,6 @@
 - [x] https://www.w3schools.com/cs/
 ### https://www.tutorialspoint.com/csharp/index.htm
 ### https://www.guru99.com/c-sharp-tutorial.html
-### https://www.tutorialsteacher.com/csharp/csharp-tutorials
 ## Paths
 ### https://app.pluralsight.com/search/?q=C%23&type=path
 ## Books
